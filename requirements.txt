@@ -1,0 +1,4 @@
+gradio
+whisper
+translate
+elevenlabs

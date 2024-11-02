@@ -92,7 +92,7 @@ Make sure you have the following Python packages installed:
 #### Define ElevenLabs API Key
 
 `ELEVENLABS_API_KEY = "Your ElevenLabs API key here"` <br>
-<img src="" alt="API key">
+<img src="https://github.com/felipesanchez-dev/InterVoz-/blob/main/img/API_KEY.png" alt="API key">
 
 ### You can install the dependencies using "pip":
    ```bash
